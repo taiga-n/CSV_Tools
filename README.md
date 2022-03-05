@@ -28,7 +28,7 @@ created csv file will be named as folder name.csv
 
 ## Requirement
 
-<b>Required PySimpleGUI</b><br>
+<b>Required [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)</b><br>
 $ pip install pysimplegui
 
 ## Licence
